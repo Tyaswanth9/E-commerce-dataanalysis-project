@@ -241,3 +241,7 @@ FROM olist_orders_dataset AS orders
 LEFT JOIN olist_order_items_dataset AS product
   ON orders.order_id = product.order_id
 WHERE product.product_category_name = "pet_shop";
+
+---
+
+**Note: This code is provided for reference only - do not for use , copy , modify , or distributions, or reproduction.**
