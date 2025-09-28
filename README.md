@@ -1,5 +1,4 @@
 # E-commerce-dataanalysis-project
-# E-commerce Customer Behavior and Business Insights Analysis
 
 ## Overview
 
@@ -59,7 +58,7 @@ This project uses the following 9 data files:
 
 ## Data Modeling
 
-![Data Modeling Diagram](https://your-image-link-here.com/data_modeling.png)
+![Data Modeling Diagram](https://github.com/Tyaswanth9/E-commerce-dataanalysis-project/blob/myself/datamoddling.png)
 
 *Image: E-commerce data model showing relationships between datasets*
 
@@ -87,7 +86,7 @@ This project uses the following 9 data files:
 
 ## Excel
 
-### 📊 Excel Dashboard Features
+###  Excel Dashboard Features
 
 - Created clear KPIs using Pivot Tables to highlight key business insights.
 - Developed a user-friendly, easy-to-read dashboard layout.
@@ -97,11 +96,11 @@ This project uses the following 9 data files:
 
 ### Dashboard Image
 
-![Excel Dashboard](https://your-image-link-here.com/excel_dashboard.png)
+![Excel Dashboard](https://github.com/Tyaswanth9/E-commerce-dataanalysis-project/blob/myself/excel_dashbaord.png)
 
 ---
 
-## ✅ What I Learned from Excel
+##  What I Learned from Excel
 
 - Improved data modeling and data structure skills.
 - Created calendar tables using date and time functions.
@@ -135,7 +134,7 @@ This project uses the following 9 data files:
 
 ### Dashboard Image
 
-![Power BI Dashboard](https://your-image-link-here.com/powerbi_dashboard.png)
+![Power BI Dashboard](https://github.com/Tyaswanth9/E-commerce-dataanalysis-project/blob/myself/powerbi_dashboard.png)
 
 ---
 
@@ -173,7 +172,7 @@ This project uses the following 9 data files:
 
 ### Dashboard Image
 
-![Tableau Dashboard](https://your-image-link-here.com/tableau_dashboard.png)
+![Tableau Dashboard](https://github.com/Tyaswanth9/E-commerce-dataanalysis-project/blob/myself/tableau_dashboard.png)
 
 ---
 
